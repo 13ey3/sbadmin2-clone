@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../sb-admin-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bs5-template"
+	}
+}

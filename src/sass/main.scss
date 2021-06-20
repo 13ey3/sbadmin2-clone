@@ -1,0 +1,13 @@
+@import "variables.scss";
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Custome Components
+@import "utilities";
+@import "global";
+
+@import "navs";
+@import "footers";
+@import "dropdowns";
+@import "buttons";
+@import "login";
